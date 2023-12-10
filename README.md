@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinayak
 - 👀 I’m interested in design and manufacturing 
 - 🌱 I’m currently learning Btech in mechanical engineering
--     I'm looking to collabrate on anything related to manufacturing
+-     I'm looking to collabrate on anything related to manufacturing..
 -     how to contact me - via my email- vvinayak.b23me1134@mbcet.ac.in
 
 <!---
